@@ -1,0 +1,118 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+  
+}
+.flexible{
+    display: flex;
+}
+h1{
+    font-size: 55px;
+}
+.space{
+    width: 50%;
+    padding-left:8%;
+    padding-top:6%;
+}
+.space img{
+    width: 90%;
+    height: 90%;
+}
+.textcolor{
+    color: rgb(247, 111, 88);
+}
+
+.button{
+    background-image: linear-gradient(rgba(247, 179, 53, 0.993),rgb(245, 111, 87));
+    text-decoration: none;
+    font-size: 13px;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+   
+}
+.two{
+    padding-top:2%;
+}
+.m2022{
+    text-align: center;
+    font-size: 50px ;
+}
+.two{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.box{
+    width: 100%;
+    height: 30%;
+     margin-left: 2%;
+     padding-left: 5%;
+     border-radius:20px;    
+    
+}
+.box1{
+    background-color: rgb(225, 241, 248);
+}
+.box2{
+    background-color: rgb(248, 231, 234);
+}
+.box3{
+    background-color: rgb(247, 225, 188);
+}
+.art{
+  width: 50%;
+  position: relative;
+}
+div.twoimg{
+    position: relative;
+    right: 42px ;
+}
+.develop{
+   
+    padding-top: 5%;
+   
+}
+.develop img{
+    padding-left: 15%;
+    padding-top: 8%;
+    width: 50%;
+    height: 80%;
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#db{
+   padding-top: 7%;
+  
+}
+div.db{
+    position: relative;
+    right: 13%;
+}
+div.global{
+    position: relative;
+    right: 6%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: right bottom ;
+}
+ul{
+    list-style: none;
+}
+.new{
+    background-image: url(images/shapes/shape-4.png);
+    background-repeat: no-repeat;
+    position: left;
+    background-size: 50%;
+
+
+}
+footer{padding-top: 3%;
+    margin-top: 5%;
+    text-align: center;
+    height:140px;
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;}
